@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>صفحتي الخاصة</title>
+</head>
+<body>
+    <h1>مرحبًا بك!</h1>
+    <p>هذه صفحة خاصة ومخفية عن الجميع.</p>
+</body>
+</html>
